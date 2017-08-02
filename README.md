@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Resting State Quality Control Checks
+## Artifact Checking
 
-You can use the [editor on GitHub](https://github.com/justbennet/training/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1. Open Resting State Tracking Log: Desktop&gt;Resting State&gt;Resting State
+Tracking Log
+    a. Select Quality assurance tab
+2. Open Fslview: Applications Fslview
+3. Open the next id for artifact checking (see Tracking log) in fslview
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+   File -> open -> tadlab -> Imaging_Data -> [select id listed in tracking log] -> func -> connectivity -> run_01 -> prun_01.nii
 
-### Markdown
+   Then click the Open button.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+   ![Image](file_select.png)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/justbennet/training/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+4.  Put the crosshair for fslview approximately on the anterior commissure of the sagittal view (top right) and vertically aligned with the longitudinal fissure in the horizontal and coronal views.

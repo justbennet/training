@@ -4,7 +4,7 @@
 1. Open Resting State Tracking Log: Desktop&gt;Resting State&gt;Resting State
 Tracking Log
 
-    a. Select Quality assurance tab
+        a. Select Quality assurance tab
 
 1. Open Fslview: Applications Fslview
 1. Open the next id for artifact checking (see Tracking log) in fslview

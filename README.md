@@ -9,9 +9,9 @@
 1. Open Fslview: Applications Fslview
 1. Open the next id for artifact checking (see Tracking log) in fslview
 
-   File -> open -> tadlab -> Imaging_Data
-   -> [select id listed in tracking log]
-   -> func -> connectivity -> run_01 -> prun_01.nii
+   File => open => tadlab => Imaging_Data
+   => [select id listed in tracking log]
+   => func -> connectivity => run_01 => prun_01.nii
 
    Then click the Open button.
 

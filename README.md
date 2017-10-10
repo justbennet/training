@@ -2,7 +2,7 @@
 ## Artifact Checking
 
 1. Open Resting State Tracking Log: Desktop&gt;Resting State&gt;Resting State
-Tracking Log
+   Tracking Log
 
         a. Select Quality assurance tab
 
